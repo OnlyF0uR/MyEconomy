@@ -1,0 +1,14 @@
+name: MyEconomy
+main: uk.onlyf0ur.myeconomy.MyEconomy
+version: 1.0.0
+api-version: 1.19
+
+commands:
+  pay:
+    usage: /<command>
+  earn:
+    usage: /<command>
+  bal:
+    usage: /<command>
+  setbal:
+    usage: /<command>

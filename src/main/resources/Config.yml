@@ -1,0 +1,15 @@
+StartBalance: 0
+EarnAmount: 50
+EarnCooldown: 120
+Text:
+  NoPermission: "--#fc4e4e--You do not have the permission to use that command."
+  SetbalUsage: "--#fc4e4e--Use: --#fcb0b0--/setbal <player> <amount>"
+  InvalidPlayer: "--#fc4e4e--Player does not exist."
+  InvalidAmount: "--#fc4e4e--You entered an invalid amount."
+  BalanceUpdated: "--#85fc4e--The balance was successfully updated."
+  CurrentBalance: "--#85fc4e--Current balance: --#4efc96--<balance>"
+  PayUsage: "--#fc4e4e--Use: --#fcb0b0--/pay <player> <amount>"
+  InsufficientFunds: "--#fc4e4e--You do not have enough money."
+  FundsWired: "--#85fc4e--Transaction completed."
+  CooldownActive: "--#fc4e4e--You're on a cooldown for --#fcb0b0--<seconds> --#fc4e4e--more seconds."
+  MoneyEarned: "--#85fc4e--Money earned, your new balance is --#4efc96--<balance>--#85fc4e--."
